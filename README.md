@@ -130,11 +130,13 @@ If you think that change is necessary - open a Pull Request in this repository a
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author**
+👤 **Riley Manda**
 
-- GitHub: (https://github.com/MariamOsman)
-- Twitter: (https://twitter.com/@Mariannaloveee)
-- LinkedIn: (https://http://www.linkedin.com/in/marian-isman-a57b75226)
+- GitHub: [@RileyManda](https://github.com/RileyManda)
+- Twitter: [@rilecodez](https://twitter.com/rilecodez)
+- LinkedIn: [rileymanda](https://www.linkedin.com/in/rileymanda/)
+
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
