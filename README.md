@@ -176,9 +176,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse to giving me this opportunity to improve my knowledge.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,15 +185,14 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **How can i contribute to the Project**
 
-  - [Answer_1]
+  - Send a request to be added as a Collaborator
 
-- **[Question_2]**
+- **How can i perview the project**
 
-  - [Answer_2]
+  - The Project will be hosted to Github.io as soon as its complete and a link will be provided.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
